@@ -148,6 +148,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=harissheikh8775&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Watch snake eating my contributions
-![snake gif](https://github.com/harissheikh8775/harissheikh8775/blob/output/github-contribution-grid-snake.gif)
+
 
